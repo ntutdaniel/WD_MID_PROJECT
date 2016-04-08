@@ -1,0 +1,32 @@
+html {
+    font-family: arial, sans-serif;
+}
+
+body {
+    min-width: 360px;
+}
+
+.navbar-brand {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.navbar-brand > img {
+    width: 22px;
+    height: 22px;
+    margin-top: -1px;
+    margin-right: 5px;
+}
+
+#brand-fixed {
+    color: #999933;
+}
+
+#navbar-fixed > li > a {
+    color: #797642;
+}
+
+.icon-bar {
+    background-color: #663;
+}
+
