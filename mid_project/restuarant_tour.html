@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="import" href="header.html">
+    <link rel="import" href="footer.html">
+    <script type="text/javascript">
+        $.get("header.html", function (data) {
+            $("#header").html(data);
+        });
+    </script>
+    <script type="text/javascript">
+        $.get("footer.html", function (data) {
+            $("#footer").html(data);
+        })
+    </script>
+    <link rel="stylesheet" href="css/bootstrap/bootstrap_3.6.min.css">
+    <link rel="stylesheet" href="css/restuarant_tour.css"/>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/bootstrap/bootstrap_3.6.min.js"></script>
+</head>
+<body>
+<header>
+    <div id="header"></div>
+</header>
+<article>
+    <div id="nav-logo" class="container">
+        <div class="row">
+            <div id="ly-logo" class="col-sm-6 col-md-6 col-xs-6"><img src="img/LY_logo.png"></div>
+            <div id="ntut-logo" class="col-sm-6 col-md-6 col-xs-6"><img src="img/ntut_logo.png"></div>
+        </div>
+    </div>
+    <div class="container">
+        <div>
+            <h1 class="text-align-center">全校餐廳</h1>
+        </div>
+    </div>
+
+</article>
+<footer>
+    <div id="footer"></div>
+</footer>
+</body>
+</html>

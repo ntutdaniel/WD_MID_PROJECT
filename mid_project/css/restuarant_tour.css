@@ -1,0 +1,25 @@
+#nav-logo {
+    display: flex;
+    justify-content: space-around;
+}
+
+#ly-logo, #ntut-logo {
+    max-height: 300px;
+    max-width: 400px;
+}
+
+#ly-logo {
+    margin-left: -35px;
+}
+
+#ntut-logo {
+    height: 210px;
+    width: 280px;
+}
+
+.text-align-center {
+    display: flex;
+    justify-content: center;
+    margin-top: -50px;
+    color: #dbb966;
+}
