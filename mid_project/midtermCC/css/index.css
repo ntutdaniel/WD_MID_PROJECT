@@ -1,0 +1,51 @@
+body{
+  background-color: #FEF9E2;
+}
+
+.logo{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.logoBoarder{
+  background-size: cover;
+  border-radius: 3px;
+}
+.mainItem{
+  margin-left: 20%;
+  margin-right: -400px;
+}
+
+.itemList{
+  text-decoration: none;
+  list-style: none;
+}
+
+.item{
+  float: left;
+  display: inline;
+ }
+
+.word{
+  margin-top: 10px;
+  margin-left: 120px;
+  font-weight: bold;
+  font-size: 20px;
+  font-family:FangSong;
+}
+
+.indexImg{
+  height: 200px;
+  width: 250px;
+  background-size: cover;
+  border-radius: 3px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+#mail:hover,#fb:hover{
+    width: 35px;
+    height:35px;
+    margin-top: -40px;
+}
