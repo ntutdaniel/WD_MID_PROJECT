@@ -1,28 +1,23 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html>
 <head lang="en">
     <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"/>
     <title></title>
-    <link rel="import" href="header.html">
-    <link rel="import" href="footer.html">
-    <script type="text/javascript">
-        $.get("header.html", function (data) {
-            $("#header").html(data);
-        });
-    </script>
-    <script type="text/javascript">
-        $.get("footer.html", function (data) {
-            $("#footer").html(data);
-        })
-    </script>
     <link rel="stylesheet" href="css/bootstrap/bootstrap_3.6.min.css">
     <link rel="stylesheet" href="css/restuarant_tour.css"/>
+    <link rel="stylesheet" href="css/header.css"/>
+    <link rel="stylesheet" href="css/footer.css"/>
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap/bootstrap_3.6.min.js"></script>
 </head>
 <body>
 <header>
-    <div id="header"></div>
+    <?php require_once './header.php'; ?>
 </header>
 <article>
     <!--LOGO-->
@@ -33,7 +28,9 @@
         </div>
         <ul class="list-unstyled">
             <li class="col-md-12 col-xs-12 col-sm-12 meal-title">半雞套餐</li>
-            <li class="col-md-3 col-xs-12 col-sm-3 meal-pic"><div></div></li>
+            <li class="col-md-3 col-xs-12 col-sm-3 meal-pic">
+                <div></div>
+            </li>
             <li class="col-md-9 col-xs-12 col-sm-9 meal-item">
                 <ul class="list-unstyled">
                     <li><span>原味醬油-半雞 $200</span></li>
@@ -44,7 +41,9 @@
                 </ul>
             </li>
             <li class="col-md-12 col-xs-12 col-sm-12 meal-title">半雞套餐</li>
-            <li class="col-md-3 col-xs-12 col-sm-3 meal-pic"><div></div></li>
+            <li class="col-md-3 col-xs-12 col-sm-3 meal-pic">
+                <div></div>
+            </li>
             <li class="col-md-9 col-xs-12 col-sm-9 meal-item">
                 <ul class="list-unstyled">
                     <li><span>原味醬油-半雞 $200</span></li>
@@ -58,7 +57,7 @@
     </div>
 </article>
 <footer>
-    <div id="footer"></div>
+    <?php require_once './footer.php'; ?>
 </footer>
 </body>
 </html>

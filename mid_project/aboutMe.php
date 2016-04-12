@@ -5,6 +5,7 @@ session_start();
 <html>
 <head lang="en">
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
     <title></title>
     <link rel="stylesheet" href="css/aboutMe.css">
     <link rel="stylesheet" href="css/bootstrap/bootstrap_3.6.min.css">
@@ -13,13 +14,14 @@ session_start();
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap/bootstrap_3.6.min.js"></script>
     <script src="js/header.js"></script>
+
 </head>
 <body>
 <header>
     <?php require_once './header.php'; ?>
 </header>
 <article>
-    <div class="container">
+    <div id="container-fixed" class="container">
         <div class="row">
             <div class="col-md-12 col-xs-12 col-sm-12 department"></div>
         </div>
