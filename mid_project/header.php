@@ -1,16 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title></title>
-    <link rel="stylesheet" href="css/bootstrap/bootstrap_3.6.min.css">
-    <link rel="stylesheet" href="css/header.css"/>
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap/bootstrap_3.6.min.js"></script>
-    <script src="js/header.js"></script>
-</head>
-<body>
 <nav class="navbar">
     <div class="container">
         <div class="navbar-brand">
@@ -35,8 +22,6 @@
         </div>
     </div>
 </nav>
-</body>
-</html>
 
 
 

@@ -1,28 +1,22 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html>
 <head lang="en">
     <meta charset="UTF-8">
     <title></title>
-    <link rel="import" href="header.html">
-    <link rel="import" href="footer.html">
     <link rel="stylesheet" href="css/aboutMe.css">
-    <script type="text/javascript">
-        $.get("header.html", function (data) {
-            $("#header").html(data);
-        });
-    </script>
-    <script type="text/javascript">
-        $.get("footer.html", function (data) {
-            $("#footer").html(data);
-        })
-    </script>
     <link rel="stylesheet" href="css/bootstrap/bootstrap_3.6.min.css">
+    <link rel="stylesheet" href="css/header.css"/>
+    <link rel="stylesheet" href="css/footer.css"/>
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap/bootstrap_3.6.min.js"></script>
+    <script src="js/header.js"></script>
 </head>
 <body>
 <header>
-    <div id="header"></div>
+    <?php require_once './header.php'; ?>
 </header>
 <article>
     <div class="container">
@@ -46,7 +40,7 @@
     </div>
 </article>
 <footer>
-    <div id="footer"></div>
+    <?php require_once './footer.php'; ?>
 </footer>
 </body>
 </html>
