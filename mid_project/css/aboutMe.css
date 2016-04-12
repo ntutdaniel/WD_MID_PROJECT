@@ -1,49 +1,79 @@
-@media screen and (min-width: 260px){
-    .pic img{
+@media screen and (min-width: 260px) {
+    .pic img {
         width: 100%;
         height: 200px;
         border-radius: 10px;
-        border:3px solid #f3f3f3;
+        border: 3px solid #f3f3f3;
         margin-left: auto;
         margin-right: auto;
     }
 
-    .info{
+    .info {
         width: 500px;
     }
 
-    .info span{
+    .info span {
         display: flex;
         justify-content: flex-start;
         margin-top: 20px;
         margin-left: 30px;
     }
 
-    #girl{
+    #boy {
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        box-sizing: border-box;
+        background-color: rgba(223, 185, 102, 0.3);
+    }
+
+    #girl {
+        display: flex;
+        justify-content: center;
         margin-top: 30px;
+    }
+
+    .department {
+        width: 100%;
+        height: 213px;
+        background-image: url("../img/ntut_csie.png");
+        background-repeat: no-repeat;
+        background-position: center;
     }
 }
 
-@media screen and (min-width: 767px){
-    .pic img{
+@media screen and (min-width: 767px) {
+    .pic img {
         width: 200px;
         height: 200px;
         border-radius: 50%;
-        border:3px solid #f3f3f3;
+        border: 3px solid #f3f3f3;
     }
 
-    .info{
+    .info {
         display: flex;
         justify-content: flex-start;
         margin-left: 50px;
         width: 500px;
     }
 
-    .info span{
+    .info span {
         margin-top: 60px;
     }
 
-    #girl .info{
+    #girl .info {
         margin-left: 60px;
+    }
+
+    #girl .info {
+        margin-left: 25px;
+    }
+}
+
+@media screen and (min-width: 990px) {
+    #girl .info {
+        margin-left: 37px;
     }
 }
