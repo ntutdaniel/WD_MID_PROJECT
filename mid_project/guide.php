@@ -1,7 +1,12 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html>
 <head lang="en">
     <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"/>
     <title>NTUT_I_Restaurant</title>
     <link rel="stylesheet" href="css/bootstrap/bootstrap_3.6.min.css">
     <link rel="stylesheet" href="css/header.css"/>
@@ -13,7 +18,9 @@
     <script src="js/script.js"></script>
 </head>
 <body>
-
+  <header>
+      <?php require_once './header.php'; ?>
+  </header>
   <div class="container">
       <nav class="navbar">
         <div class="navbar-brand">
@@ -189,15 +196,11 @@
           </li>
     </ul>
 
-  <div id="footer">
-      <div class="container">
-          <div class="copyright">2016 &copy; Daniel</div>
-          <div class="social-logo"><img id="fb"  src="img/Facebook.png"><img id="mail"  src="img/Message.png"></div>
-      </div>
-  </div>
+    <footer>
+        <?php require_once './footer.php'; ?>
+    </footer>
 
+  </div><!--container-->
 
-
-
-
-  </div>
+</body>
+</html>
