@@ -29,14 +29,16 @@ session_start();
         </div>
         <div>
             <div id="boy" class="row">
-                <div class="col-md-3 col-xs-12 col-sm-3 pic"><img src="img/daniel.jpg" alt="daniel"></div>
-                <div class="col-md-6 col-xs-12 col-sm-6 info"><h3>簡介</h3><span>我叫唐唐</span></div>
+                <div class="col-md-3 col-xs-12 col-sm-3 pic"><img src="img/daniel.jpg"
+                                                                  alt="daniel"><span>Daniel Tang</span></div>
+                <div class="col-md-6 col-xs-12 col-sm-6 col-md-pull-1 info"><h3>簡介</h3><span>我叫唐唐</span></div>
             </div>
         </div>
         <div>
             <div id="girl" class="row">
                 <div class="col-md-3 col-xs-12 col-sm-3 col-md-push-6 col-sm-push-6 pic"><img src="img/lin.jpg"
-                                                                                              alt="lin"></div>
+                                                                                              alt="lin"><span>Girl</span>
+                </div>
                 <div class="col-md-6 col-xs-12 col-sm-6 col-md-pull-1 col-sm-pull-1 info"><h3>簡介</h3>
                     <span>你好我是林鈺琪</span></div>
             </div>
@@ -44,7 +46,9 @@ session_start();
     </div>
 </article>
 <footer>
-    <?php require_once './footer.php'; ?>
+    <div class="footer">
+        <?php require_once './footer.php'; ?>
+    </div>
 </footer>
 </body>
 </html>
