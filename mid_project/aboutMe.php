@@ -30,7 +30,7 @@ session_start();
         <div>
             <div id="boy" class="row">
                 <div class="col-md-3 col-xs-12 col-sm-3 pic"><img src="img/daniel.jpg" alt="daniel"></div>
-                <div class="col-md-6 col-xs-12 col-sm-6 info"><h3>簡介</h3><span>你好我是唐寧</span></div>
+                <div class="col-md-6 col-xs-12 col-sm-6 info"><h3>簡介</h3><span>我叫唐唐</span></div>
             </div>
         </div>
         <div>

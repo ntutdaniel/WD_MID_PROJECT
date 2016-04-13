@@ -6,6 +6,7 @@
         border: 3px solid #f3f3f3;
         margin-left: auto;
         margin-right: auto;
+        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
     }
 
     .pic_active {
@@ -16,6 +17,7 @@
 
     .info {
         width: 500px;
+        border-left: .8px solid rgba(128, 128, 128, 0.3);
     }
 
     .info span {
@@ -32,7 +34,6 @@
         padding-top: 20px;
         padding-bottom: 20px;
         box-sizing: border-box;
-        background-color: rgba(223, 185, 102, 0.3);
     }
 
     #girl {
@@ -47,6 +48,7 @@
         background-image: url("../img/ntut_csie.png");
         background-repeat: no-repeat;
         background-position: center;
+
     }
 
     #container-fixed {
