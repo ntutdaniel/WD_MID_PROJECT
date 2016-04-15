@@ -21,160 +21,140 @@ session_start();
   <header>
       <?php require_once './header.php'; ?>
   </header>
-  
+
   <div class="container">
     <img class="titleImg" src="img/guideMain.jpg">
 
+
     <ul class="list-unstyled">
-        <li class="col-md-12 col-xs-12 col-sm-12 meal-title">63牛排</li>
-        <li class="col-md-6 col-xs-12 col-sm-6" >
-            <div class="test-pic">
-              <img src="img/63837.jpg">
-            </div>
-        </li>
-        <li class="col-md-6 col-xs-12 col-sm-6" >
-            <div class="test-pic">
-              <img src="img/I-2.PNG">
-            </div>
-        </li>
+      <div class="col-xs-12 col-md-6 col-lg-6 row-item">
+        <li class="meal-title">63牛排</li>
+        <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                   <img src="img/63837.jpg">
+             </li>
+              <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                   <img src="img/I-2.PNG">
+             </li>
+       </div><!--row-item-->
 
-          <li class="col-md-12 col-xs-12 col-sm-12 meal-title">天津蔥抓餅</li>
-          <li class="col-md-6 col-xs-12 col-sm-6" >
-            <div class="test-pic">
-              <img  src="img/LOGO3.PNG">
-            </div>
-        </li>
-        <li class="col-md-6 col-xs-12 col-sm-6" >
-            <div class="test-pic">
-              <img src="img/lightEat1.PNG">
-            </div>
-          </li>
+       <div class="col-xs-12 col-md-6 col-lg-6 row-item">
+         <li class="meal-title">天津蔥抓餅</li>
+         <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                    <img  src="img/LOGO3.PNG">
+              </li>
+              <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                    <img src="img/lightEat1.PNG">
+              </li>
+        </div><!--row-item-->
 
-          <li class="col-md-12 col-xs-12 col-sm-12 meal-title">香港燒臘</li>
-            <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/not_yet.PNG">
-              </div>
-          </li>
-          <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/E-2.PNG">
-              </div>
-          </li>
+        <div class="col-xs-12 col-md-6 col-lg-6 row-item">
+          <li class="meal-title">香港燒臘</li>
+          <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                     <img src="img/not_yet.PNG">
+               </li>
+                <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                     <img src="img/E-2.PNG">
+               </li>
+         </div><!--row-item-->
 
-          <li class="col-md-12 col-xs-12 col-sm-12 meal-title">麗陽自助餐</li>
-            <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/not_yet.PNG">
-              </div>
-          </li>
-          <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/B-6.PNG">
-              </div>
-          </li>
+         <div class="col-xs-12 col-md-6 col-lg-6 row-item">
+           <li class="meal-title">麗陽自助餐</li>
+           <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                      <img src="img/63837.jpg">
+                </li>
+                <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                      <img src="img/B-6.PNG">
+                </li>
+          </div><!--row-item-->
 
-          <li class="col-md-12 col-xs-12 col-sm-12 meal-title">素還真</li>
-            <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/not_yet.PNG">
-              </div>
-          </li>
-          <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/C-4.PNG">
-              </div>
-          </li>
+          <div class="col-xs-12 col-md-6 col-lg-6 row-item">
+            <li class="meal-title">素還真</li>
+            <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                       <img src="img/63837.jpg">
+                 </li>
+                  <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                       <img src="img/C-4.PNG">
+                 </li>
+           </div><!--row-item-->
 
-          <li class="col-md-12 col-xs-12 col-sm-12 meal-title">海音咖啡</li>
-            <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/D-6.png">
-              </div>
-          </li>
-          <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/D-7.png">
-              </div>
-          </li>
+           <div class="col-xs-12 col-md-6 col-lg-6 row-item">
+             <li class="meal-title">海音咖啡</li>
+             <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                        <img src="img/D-6.png">
+                  </li>
+                  <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                        <img src="img/D-7.png">
+                  </li>
+            </div><!--row-item-->
 
-          <li class="col-md-12 col-xs-12 col-sm-12 meal-title">鵲兒思啼</li>
-            <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/F-1.jpg">
-              </div>
-          </li>
-          <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/G-2.PNG">
-              </div>
-          </li>
+            <div class="col-xs-12 col-md-6 col-lg-6 row-item">
+              <li class="meal-title">鵲兒思啼</li>
+              <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                         <img src="img/F-1.jpg">
+                   </li>
+                    <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                         <img src="img/G-2.PNG">
+                   </li>
+             </div><!--row-item-->
 
-          <li class="col-md-12 col-xs-12 col-sm-12 meal-title">金盃美而美</li>
-            <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/A-1.PNG">
-              </div>
-          </li>
-          <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/A-2.PNG">
-              </div>
-          </li>
+             <div class="col-xs-12 col-md-6 col-lg-6 row-item">
+               <li class="meal-title">金盃美而美</li>
+               <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                          <img src="img/A-1.PNG">
+                    </li>
+                    <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                          <img src="img/A-2.PNG">
+                    </li>
+              </div><!--row-item-->
 
-          <li class="col-md-12 col-xs-12 col-sm-12 meal-title">意鼎</li>
-            <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/K-1.png">
-              </div>
-          </li>
-          <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/J-2.PNG">
-              </div>
-          </li>
+              <div class="col-xs-12 col-md-6 col-lg-6 row-item">
+                <li class="meal-title">意鼎</li>
+                <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                           <img src="img/K-1.png">
+                     </li>
+                      <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                           <img src="img/J-2.PNG">
+                     </li>
+               </div><!--row-item-->
 
-          <li class="col-md-12 col-xs-12 col-sm-12 meal-title">好地方快餐</li>
-            <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/J-1.png">
-              </div>
-          </li>
-          <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/K-2.PNG">
-              </div>
-          </li>
+               <div class="col-xs-12 col-md-6 col-lg-6 row-item">
+                 <li class="meal-title">好地方快餐</li>
+                 <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                             <img src="img/J-1.png">
+                      </li>
+                      <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                            <img src="img/K-2.PNG">
+                      </li>
+                </div><!--row-item-->
 
-          <li class="col-md-12 col-xs-12 col-sm-12 meal-title">拌拌極好食</li>
-            <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/L-1.png">
-              </div>
-          </li>
-          <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/L-2.PNG">
-              </div>
-          </li>
+                <div class="col-xs-12 col-md-6 col-lg-6 row-item">
+                  <li class="meal-title">拌拌極好食</li>
+                  <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                             <img src="img/L-1.png">
+                       </li>
+                        <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                             <img src="img/L-2.PNG">
+                       </li>
+                 </div><!--row-item-->
 
-          <li class="col-md-12 col-xs-12 col-sm-12 meal-title">AJAC大叔</li>
-            <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/M-2.jpg">
-              </div>
-          </li>
-          <li class="col-md-6 col-xs-12 col-sm-6" >
-              <div class="test-pic">
-                <img src="img/M-1.PNG">
-              </div>
-          </li>
-    </ul>
+                 <div class="col-xs-12 col-md-6 col-lg-6 row-item">
+                   <li class="meal-title">AJAC大叔</li>
+                   <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                               <img src="img/M-2.jpg">
+                        </li>
+                        <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+                              <img src="img/M-1.PNG">
+                        </li>
+                  </div><!--row-item-->
 
-    <footer>
+
+
+
+
+     </ul>
+     <footer>
         <?php require_once './footer.php'; ?>
     </footer>
-
   </div><!--container-->
 
 </body>
