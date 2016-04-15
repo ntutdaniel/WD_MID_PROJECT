@@ -25,7 +25,7 @@ body{
     font-family:FangSong;
 }
 
-.meal-pic{
+.meal-pic {
   width: 300px;
   height: 240px;
   margin-bottom: 10px;
@@ -40,8 +40,17 @@ body{
     height:264px;
 }
 
-.widen{
- margin-right:  100px; 
+.test-pic {
+
+   margin-bottom: 15px;
+}
+
+.test-pic > img{
+  width: 100%;
+  height: 200px;
+  margin-bottom: 15px;
+  border-radius: 3px;
+
 }
 
 #mail:hover,#fb:hover{
