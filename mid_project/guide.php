@@ -28,10 +28,10 @@ session_start();
     <ul class="list-unstyled">
       <div class="col-xs-12 col-md-6 col-lg-6 row-item">
         <li class="meal-title">63牛排</li>
-        <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+        <li class="col-xs-12 col-sm-6 col-md-6 test-pic" >
                    <img id="bigger1"  src="img/63837.jpg">
              </li>
-              <li class="col-xs-12 col-sm-6 col-md-6  test-pic" >
+              <li class="col-xs-12 col-sm-6 col-md-6 test-pic" >
                    <img id="bigger2"  src="img/I-2.PNG">
              </li>
        </div><!--row-item-->
