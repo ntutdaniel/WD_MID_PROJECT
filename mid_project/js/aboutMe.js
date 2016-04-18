@@ -25,7 +25,7 @@ $(document).ready(function () {
         }
     });
 
-    $("#girl > div").mouseenter(function () {
+    $("#girl").mouseenter(function () {
         if ($("#boy > div > img").hasClass("pic_active")) {
             $("#boy > div > img").removeClass("pic_active");
         }
@@ -37,7 +37,7 @@ $(document).ready(function () {
         }
     });
 
-    $("#girl > div").mouseleave(function () {
+    $("#girl").mouseleave(function () {
         if ($("#boy > div > img").hasClass("pic_active")) {
             $("#boy > div > img").removeClass("pic_active");
         }
