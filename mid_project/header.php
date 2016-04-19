@@ -15,7 +15,7 @@
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul id="navbar-fixed" class="nav navbar-nav">
                 <li><a href="guide.php">餐廳導覽</a></li>
-                <li><a href="#">餐廳介紹</a></li>
+                <li><a href="restaurant_intro.php">餐廳介紹</a></li>
                 <li><a href="news.php">最新消息</a></li>
                 <li><a href="aboutMe.php">關於我們</a></li>
             </ul>
