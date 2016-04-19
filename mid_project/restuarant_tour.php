@@ -7,13 +7,15 @@ session_start();
     <meta charset="UTF-8">
     <meta name="viewport"
           content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0"/>
-    <title></title>
+    <title>北科I美食</title>
     <link rel="stylesheet" href="css/bootstrap/bootstrap_3.6.min.css">
     <link rel="stylesheet" href="css/restuarant_tour.css"/>
     <link rel="stylesheet" href="css/header.css"/>
     <link rel="stylesheet" href="css/footer.css"/>
+    <link rel="stylesheet" href="css/animate.css"/>
     <script src="js/jquery.min.js"></script>
     <script src="js/bootstrap/bootstrap_3.6.min.js"></script>
+    <script src="js/header.js"></script>
 </head>
 <body>
 <header>

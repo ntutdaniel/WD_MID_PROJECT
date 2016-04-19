@@ -27,10 +27,9 @@ html {
 .social-logo img {
     width: 30px;
     height: 30px;
-    margin-top:-35px;
+    margin-top: -35px;
     margin-right: 10px;
 }
-
 
 #gotop {
     display: none;
