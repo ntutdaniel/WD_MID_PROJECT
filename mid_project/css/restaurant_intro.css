@@ -1,0 +1,120 @@
+/* General */
+
+.container {
+  width: 960px;
+}
+
+/* Header */
+.header {
+  background-color: rgba(255, 255, 255, 0.95);
+  border-bottom: 1px solid #ddd;
+
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+
+  font-size: 17px;
+  padding: 15px;
+}
+
+.header  {
+  float: right;
+  list-style: none;
+  margin-top: 5px;
+}
+
+/* Carousel */
+.slider {
+  position: relative;
+  width: 100%;
+  height: 470px;
+  border-bottom: 1px solid #ddd;
+}
+
+.slide {
+  background: transparent
+  url('https://raw.githubusercontent.com/ntutdaniel/WD_MID_PROJECT/master/mid_project/img/background.PNG') center center no-repeat;
+  background-size: cover;
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.active-slide {
+    display: block;
+}
+
+.slide-copy h1 {
+  color: #363636;
+
+  font-family: "華康流風體W3",'Oswald', sans-serif;
+  font-weight: 400;
+
+  font-size: 45px;
+  margin-top: 7px;
+  margin-bottom: 10px;
+}
+
+.slide-copy img{
+  margin-top: 3px;
+  height: 20px;
+  width: 15px;
+  float: left;
+}
+
+.slide-copy p {
+  color: #959595;
+  font-family: Georgia, FangSong,"Times New Roman", serif;
+  font-size: 1.15em;
+  line-height: 1.5em;
+  margin-bottom: 8px;
+ }
+
+.slide-img {
+  margin-top: 85px;
+  text-align: right;
+}
+
+.slide-img img{
+  border-radius: 3px;
+}
+
+.slider-nav {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.arrow-prev {
+  margin-left: 26%;
+  margin-right: 45px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 20px;
+}
+
+.arrow-next {
+  margin-left: 45px;
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 20px;
+}
+
+.slider-dots {
+  list-style: none;
+  display: inline-block;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.slider-dots li {
+  color: #bbbcbc;
+  display: inline;
+  font-size: 30px;
+  margin-right: 5px;
+}
+
+.slider-dots li.active-dot {
+  color: #363636;
+}
