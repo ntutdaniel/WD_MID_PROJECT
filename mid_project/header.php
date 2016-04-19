@@ -1,8 +1,8 @@
 <nav class="navbar">
     <div class="container">
         <div class="navbar-brand">
-            <img src="img/logo.png">
-            <a id="brand-fixed" href="#">北科Ｉ美食</a>
+            <a href="index.php"><img src="img/logo.png"></a>
+            <a id="brand-fixed" href="index.php">北科Ｉ美食</a>
         </div>
         <div class="navbar-header">
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar"
@@ -14,7 +14,7 @@
         </div>
         <div class="collapse navbar-collapse" id="myNavbar">
             <ul id="navbar-fixed" class="nav navbar-nav">
-                <li><a href="#">餐廳導覽</a></li>
+                <li><a href="guide.php">餐廳導覽</a></li>
                 <li><a href="#">餐廳介紹</a></li>
                 <li><a href="news.php">最新消息</a></li>
                 <li><a href="aboutMe.php">關於我們</a></li>

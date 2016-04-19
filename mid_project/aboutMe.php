@@ -31,16 +31,16 @@ session_start();
             <div id="boy" class="row">
                 <div class="col-md-3 col-xs-12 col-sm-3 pic"><img src="img/daniel.jpg"
                                                                   alt="daniel"><span>Daniel Tang</span></div>
-                <div class="col-md-6 col-xs-12 col-sm-6 col-md-pull-1 info"><h3>簡介</h3><span>唐唐你好我唐寧，很高興修的</span></div>
+                <div class="col-md-6 col-xs-12 col-sm-6 col-md-pull-1 info"><h3>簡介</h3><span>你好我是唐弟弟，很高興這學期修習這門網頁的學生，我負責的部分有navbar、footer、美味餐點、最新消息、關於我們。</span></div>
             </div>
         </div>
-        <div>
+       <div>
             <div id="girl" class="row">
                 <div class="col-md-3 col-xs-12 col-sm-3 col-md-push-6 col-sm-push-6 pic"><img src="img/lin.jpg"
-                                                                                              alt="lin"><span>Girl</span>
+                                                                                              alt="lin"><span>Ms. Lin</span>
                 </div>
                 <div class="col-md-6 col-xs-12 col-sm-6 col-md-pull-1 col-sm-pull-1 info"><h3>簡介</h3>
-                    <span>你好我是林鈺琪</span></div>
+                    <span>你好我是林妹妹，很高興這學期修習這門網頁的學生，我負責的部分有首頁、餐聽導覽、餐廳介紹。</span></div>
             </div>
         </div>
     </div>
