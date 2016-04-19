@@ -31,7 +31,7 @@ session_start();
             <div id="boy" class="row">
                 <div class="col-md-3 col-xs-12 col-sm-3 pic"><img src="img/daniel.jpg"
                                                                   alt="daniel"><span>Daniel Tang</span></div>
-                <div class="col-md-6 col-xs-12 col-sm-6 col-md-pull-1 info"><h3>簡介</h3><span>你好我是唐弟弟，很高興這學期修習這門網頁的學生，我負責的部分有navbar、footer、美味餐點、最新消息、關於我們。</span></div>
+                <div class="col-md-6 col-xs-12 col-sm-6 col-md-pull-2 info"><h3>簡介</h3><span>你好我是唐弟弟，很高興這學期修習這門網頁的學生，我負責的部分有navbar、footer、美味餐點、最新消息、關於我們。</span></div>
             </div>
         </div>
        <div>
