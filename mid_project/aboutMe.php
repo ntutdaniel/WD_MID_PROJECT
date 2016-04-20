@@ -40,7 +40,7 @@ session_start();
                 <div class="col-md-3 col-xs-12 col-sm-3 col-md-push-6 col-sm-push-6 pic"><img src="img/lin.jpg"
                                                                                               alt="lin"><span>Ms. Lin</span>
                 </div>
-                <div class="col-md-6 col-xs-12 col-sm-6 col-md-pull-1 col-sm-pull-1 info"><h3>簡介</h3>
+                <div class="col-md-6 col-xs-12 col-sm-6 col-md-pull-0 col-sm-pull-5 info"><h3>簡介</h3>
                     <span>你好我是林妹妹，很高興這學期修習這門網頁的學生，我負責的部分有首頁、餐聽導覽、餐廳介紹。</span></div>
             </div>
         </div>
