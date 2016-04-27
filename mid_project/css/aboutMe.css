@@ -1,49 +1,179 @@
-@media screen and (min-width: 260px){
-    .pic img{
-        width: 100%;
-        height: 200px;
-        border-radius: 10px;
-        border:3px solid #f3f3f3;
-        margin-left: auto;
-        margin-right: auto;
+@media screen and (min-width: 260px) {
+    .pic {
+        position: absolute;
+        margin: auto;
+        top: 0;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        width: 120px;
+        height: 120px;
+        border-radius: 120px;
+        text-align: center;
+        cursor: pointer;
     }
 
-    .info{
+    .pic img {
+        width: 100%;
+        height: 200px;
+        border-radius: 50%;
+        border: 3px solid #0074d9;
+        margin-left: auto;
+        margin-right: auto;
+        box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+        opacity: 0.9;
+    }
+
+    .pic span {
+        position: absolute;
+        margin: auto;
+        top: 56px;
+        right: 0;
+        left: 0;
+        bottom: 0;
+        width: 206px;
+        height: 206px;
+        border-radius: 120px;
+        line-height: 120px;
+        font-family: 'Oswald';
+        font-size: 20px;
+        visibility: hidden;
+    }
+
+    .pic:hover img,
+    #boy:hover > div img,
+    #girl:hover > div img {
+        opacity: 0.8;
+    }
+
+    #girl > div img {
+        opacity: 0.8;
+    }
+
+    #boy:hover > div:nth-child(1) > span,
+    #girl:hover > div:nth-child(1) > span {
+        background: rgba(217, 217, 217, 0.52);
+        visibility: visible;
+        color: #494E52;
+    }
+
+    #girl > div:nth-child(1) > img {
+        border: 3px solid #f94877;
+    }
+
+    .pic_active {
+        -webkit-transform: scale3d(1.05, 1.05, 1.3) translate(0px, -10px);
+        box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+        opacity: 1;
+    }
+
+    .info {
         width: 500px;
     }
 
-    .info span{
+    .info span {
         display: flex;
         justify-content: flex-start;
         margin-top: 20px;
         margin-left: 30px;
     }
 
-    #girl{
-        margin-top: 30px;
+    #boy {
+        display: flex;
+        justify-content: center;
+        margin-top: 40px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        box-sizing: border-box;
+    }
+
+    #boy > div:nth-child(2) > h3 {
+        width: 50px;
+        height: 27px;
+        text-align: center;
+        border-radius: 3px;
+        background-color: #0074d9;
+        color: #f2f2f2;
+    }
+
+    #boy > div:nth-child(2) > span {
+        width: 200px;
+    }
+
+    #girl > div:nth-child(2) > h3 {
+        width: 50px;
+        height: 27px;
+        text-align: center;
+        border-radius: 3px;
+        background-color: #f94877;
+        color: #f2f2f2;
+    }
+
+    #girl > div:nth-child(2) > span {
+        width: 200px;
+    }
+
+    #girl {
+        display: flex;
+        justify-content: center;
+        margin-top: 80px;
+    }
+
+    .department {
+        width: 100%;
+        height: 213px;
+        background-image: url("../img/ntut_csie.png");
+        background-repeat: no-repeat;
+        background-position: center;
+
+    }
+
+    #container-fixed {
+        width: 100%;
+        margin: 0;
+    }
+
+    .footer {
+        margin-top: 100px;
     }
 }
 
-@media screen and (min-width: 767px){
-    .pic img{
+@media screen and (min-width: 767px) {
+    .pic img {
         width: 200px;
         height: 200px;
         border-radius: 50%;
-        border:3px solid #f3f3f3;
+        border: 3px solid #0074d9;
     }
 
-    .info{
+    .info {
         display: flex;
         justify-content: flex-start;
         margin-left: 50px;
         width: 500px;
     }
 
-    .info span{
+    .info span {
         margin-top: 60px;
     }
 
-    #girl .info{
+    #girl .info {
         margin-left: 60px;
     }
+
+    #girl .info {
+        margin-left: 25px;
+    }
+}
+
+@media screen and (min-width: 990px) {
+    #girl .info {
+        margin-left: 37px;
+    }
+}
+
+.pic_active {
+    -webkit-transform: scale3d(1.05, 1.05, 1.3) translate(0px, -10px);
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+    opacity: 1;
 }

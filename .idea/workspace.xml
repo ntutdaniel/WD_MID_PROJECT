@@ -2,8 +2,196 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c3a6158-3353-4edb-9b46-233a1c5ce8d3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/css/aboutMe.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mid_project/header.html" afterPath="$PROJECT_DIR$/mid_project/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/css/fancybox_sprite.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/63837.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/65207.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/65211.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/A-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/A-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/A-3.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/A-4.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/B-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/B-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/B-6.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/C-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/C-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/C-3.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/C-4.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/D-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/D-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/D-3.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/D-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/D-5.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/D-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/D-7.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/E-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/F-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/F-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/G-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/G-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/H-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/I-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/I-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/J-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/J-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/K-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/K-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/L-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/L-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/L-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/LOGO2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/LOGO3.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/M-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/M-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/ajc-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/arrow-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/arrow-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/background.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/bundle.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/delicious.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/guideMain.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/latestNews.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/lightEat1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/mainFood1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/not_yet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/place.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/salad.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/symbol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/think.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/img/title_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/Web Design_102590016 - 2.pptx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/fonts/simfang.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/63837.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/953ca262-75be-4b1f-a05f-4641ee6cc935.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/A-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/A-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/A-3.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/A-4.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/B-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/B-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/B-3.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/B-4.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/B-6.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/C-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/C-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/C-3.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/C-4.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/D-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/D-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/D-3.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/D-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/D-5.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/D-6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/D-7.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/E-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/E-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/F-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/F-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/F-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/FB.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/Facebook.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/G-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/G-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/H-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/I-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/I-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/I-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/J-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/J-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/J-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/K-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/K-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/K-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/L-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/L-1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/L-2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/L-3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/LOGO2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/LOGO3.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/M-1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/M-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/Message.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/ajc-box.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/delicious.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/guideMain.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/latestNews.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/lightEat1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/lightEat2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/mail.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/mainFood1.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/not_yet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/ntut_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/page1_main.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/page1_main2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/page1_main_fix.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/page1_main_fix_small.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/place.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/social_icon.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/think.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/img/title_logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/css/animate.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/css/guide.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/css/jquery.fancybox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/css/restaurant_intro.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/css/test.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/guide.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/js/aboutMe.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/js/guide.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/js/jquery.fancybox.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/js/news.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/js/restaurant_intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/js/test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/js/top.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/bootstrap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/css/bootstrap/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/css/bootstrap/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/css/bootstrap/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/css/bootstrap/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/css/bootstrap/bootstrap_3.6.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/css/footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/css/guide.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/css/header.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/css/restuarant_tour.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/guide.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/js/bootstrap/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/js/bootstrap/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/js/bootstrap/bootstrap_3.6.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/js/header.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/midtermCC/js/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/news.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/restaurant_intro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mid_project/test.php" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mid_project/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mid_project/.idea/vcs.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mid_project/aboutMe.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mid_project/footer.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mid_project/header.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/mid_project/news.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/mid_project/restuarant_tour.html" afterPath="$PROJECT_DIR$/mid_project/restuarant_tour.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mid_project/design/web project.sketch" afterPath="$PROJECT_DIR$/mid_project/design/web project.sketch" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mid_project/img/logo.png" afterPath="$PROJECT_DIR$/mid_project/img/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mid_project/.idea/encodings.xml" afterPath="$PROJECT_DIR$/mid_project/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mid_project/.idea/workspace.xml" afterPath="$PROJECT_DIR$/mid_project/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mid_project/css/aboutMe.css" afterPath="$PROJECT_DIR$/mid_project/css/aboutMe.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mid_project/css/footer.css" afterPath="$PROJECT_DIR$/mid_project/css/footer.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mid_project/css/header.css" afterPath="$PROJECT_DIR$/mid_project/css/header.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mid_project/css/news.css" afterPath="$PROJECT_DIR$/mid_project/css/news.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mid_project/css/restuarant_tour.css" afterPath="$PROJECT_DIR$/mid_project/css/restuarant_tour.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mid_project/js/header.js" afterPath="$PROJECT_DIR$/mid_project/js/header.js" />
     </list>
     <ignored path="wd_mid_project_win.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,12 +213,12 @@
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.30530614">
       <split-first>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="aboutMe.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/mid_project/css/aboutMe.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.4978166">
-                  <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+                <state vertical-scroll-proportion="2.1455605">
+                  <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
@@ -39,12 +227,12 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
-          <file leaf-file-name="aboutMe.html" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/mid_project/aboutMe.html">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="aboutMe.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/mid_project/css/aboutMe.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.30422124">
-                  <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+                <state vertical-scroll-proportion="2.125874">
+                  <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
                   <folding />
                 </state>
               </provider>
@@ -110,7 +298,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -172,10 +359,11 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Dropbox/nodejs/node_train/mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
@@ -211,6 +399,11 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -247,22 +440,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="82" y="63" width="1670" height="897" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498469" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -283,18 +476,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mid_project/header.html">
+    <entry file="file://$PROJECT_DIR$/mid_project/css/aboutMe.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.0">
-          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mid_project/restuarant_tour.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="8.714286">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding />
         </state>
       </provider>
@@ -303,22 +488,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.6785714">
           <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="5" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mid_project/aboutMe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30422124">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mid_project/css/aboutMe.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4978166">
-          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state vertical-scroll-proportion="2.125874">
+          <caret line="80" column="5" selection-start-line="80" selection-start-column="5" selection-end-line="80" selection-end-column="5" />
           <folding />
         </state>
       </provider>
